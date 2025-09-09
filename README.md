@@ -2,7 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/unhcrpyplotstyle.svg)](https://badge.fury.io/py/unhcrpyplotstyle)
 
-The `unhcrpyplotstyle` package provides Matplotlib styles following the [UNHCR Data Visualization Guidelines](https://www.unhcr.org/brand/wp-content/uploads/sites/89/2021/11/UNHCR_Data_Visualization_Guidelines.pdf), ensuring that charts are professional and brand-compliant. The purpose of this package is to simplify and expedite the chart creation process using Matplotlib custom stylesheets.
+The `unhcrpyplotstyle` package provides Matplotlib styles following the [UNHCR Data Visualization Guidelines](https://dataviz.unhcr.org/download/UNHCR_Data_Visualization_Guidelines.pdf), ensuring that charts are professional and brand-compliant. The purpose of this package is to simplify and expedite the chart creation process using Matplotlib custom stylesheets.
 
 ## Getting started
 The easiest way to install the `unhcrpyplotstyle` package is by using pip:
@@ -60,26 +60,26 @@ The chart with `unhcrpyplotstyle` + `column` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_column_chart-1.svg" width="500">
 
-_Find code example for column chart [here](https://dataviz.unhcr.org/tools/python/python_column_chart.html)._
+_Find code example for column chart [here](https://dataviz.unhcr.org/tutorials/matplotlib/comparison/#column)._
 
 
 The chart with `unhcrpyplotstyle` + `bar` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_bar_chart-1.svg" width="500">
 
-_Find code example for bar chart [here](https://dataviz.unhcr.org/tools/python/python_bar_chart.html)._
+_Find code example for bar chart [here](https://dataviz.unhcr.org/tutorials/matplotlib/comparison/#bar)._
 
 
 The chart with `unhcrpyplotstyle` + `line` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_line_chart-1.svg" width="500">
 
-_Find code example for line chart [here](https://dataviz.unhcr.org/tools/python/python_line_chart.html)._
+_Find code example for line chart [here](https://dataviz.unhcr.org/tutorials/matplotlib/change-over-time/#line)._
 
 
 The chart with `unhcrpyplotstyle` + `scatterplot` styles:
 
 <img src="https://raw.githubusercontent.com/leichen88/unhcrpyplotstyle/main/example/python_scatterplot-1.svg" width="500">
 
-_Find code example for scatterplot [here](https://dataviz.unhcr.org/tools/python/python_scatterplot.html)._
+_Find code example for scatterplot [here](https://dataviz.unhcr.org/tutorials/matplotlib/correlation/#scatterplot)._
 
